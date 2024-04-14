@@ -7,3 +7,4 @@ Otherwise for other needs it's sufficient to act on the SCALE variable and set i
 **DEPENDENCIES**
 - Mako
 - Waybar
+- Gnome-Polkit
